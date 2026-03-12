@@ -21,5 +21,5 @@ User experience
 ## OUTPUT
 
 ## RESULT
-<img width="983" height="619" alt="image" src="https://github.com/user-attachments/assets/db87bebc-96a7-4375-886f-1ec59339e7ad" />
+<img width="959" height="402" alt="image" src="https://github.com/user-attachments/assets/1546e7fc-9430-41af-841a-7ba3b6bca877" />
 
